@@ -1,0 +1,81 @@
+[{
+ "p001": {
+    
+    "name": "Ram Sharma",
+    "address": "Butwal-13, Rupandehi",
+    "severity": "mild",
+    "age": 34,
+    "location": "Butwal"
+  }},{
+  "p002": {
+    "patient_id": "P002",
+    "name": "Sita Thapa",
+    "address": "Pokhara-5, Kaski",
+    "severity": "moderate",
+    "age": 28,
+    "location": "Pokhara"
+  }},{
+  "p003": {
+    "patient_id": "P003",
+    "name": "Hari Bhandari",
+    "address": "Kathmandu-10, Baneshwor",
+    "severity": "severe",
+    "age": 56,
+    "location": "Kathmandu"
+  }},{  "p004": {
+    "patient_id": "P004",
+    "name": "Gita Gurung",
+    "address": "Chitwan-7, Bharatpur",
+    "severity": "mild",
+    "age": 22,
+    "location": "Chitwan"
+  }},{
+  "p005": {
+    "patient_id": "P005",
+    "name": "Bikash Karki",
+    "address": "Biratnagar-3, Morang",
+    "severity": "moderate",
+    "age": 41,
+    "location": "Biratnagar"
+  }},{
+  "p006": {
+    "patient_id": "P006",
+    "name": "Anita Rai",
+    "address": "Dharan-9, Sunsari",
+    "severity": "severe",
+    "age": 63,
+    "location": "Dharan"
+  }},{
+  "p007": {
+    "patient_id": "P007",
+    "name": "Ramesh Chaudhary",
+    "address": "Nepalgunj-4, Banke",
+    "severity": "moderate",
+    "age": 47,
+    "location": "Nepalgunj"
+  }},{
+  "p008": {
+    "patient_id": "P008",
+    "name": "Laxmi Joshi",
+    "address": "Dhangadhi-2, Kailali",
+    "severity": "mild",
+    "age": 19,
+    "location": "Dhangadhi"
+  }},{
+  "p009": {
+    "patient_id": "P009",
+    "name": "Kiran Shrestha",
+    "address": "Lalitpur-15, Patan",
+    "severity": "severe",
+    "age": 52,
+    "location": "Lalitpur"
+  }},
+  {"p010": {
+    "patient_id": "P010",
+    "name": "Maya Tamang",
+    "address": "Sindhupalchok-6, Melamchi",
+    "severity": "moderate",
+    "age": 31,
+    "location": "Sindhupalchok"
+  }}
+]
